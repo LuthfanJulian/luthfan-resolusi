@@ -1,6 +1,8 @@
 RENCANA KONTEN LUTHFAN
 
 - belajar java script
+  * ES6
+  * Framework Javascript
 - belajar PHP framework
 - belajar interview
 - belajar vlogs
