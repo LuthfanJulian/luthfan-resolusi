@@ -3,7 +3,10 @@ RENCANA KONTEN LUTHFAN
 - belajar java script
   * ES6
   * Framework Javascript
+  ^ Vue
 - Fundamental Data Dasar
 - belajar PHP framework
+ ^ Laravel
 - belajar interview
 - belajar vlogs
+- Python
